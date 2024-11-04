@@ -4,3 +4,5 @@ Les 3 commandes de push:
 -git add
 -git commit
 -git push
+
+La commande pull: git-begins
