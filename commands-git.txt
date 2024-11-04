@@ -1,0 +1,6 @@
+git clone "url-github"
+
+Les 3 commandes de push:
+-git add
+-git commit
+-git push
