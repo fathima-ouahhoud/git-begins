@@ -6,3 +6,8 @@ Les 3 commandes de push:
 -git push
 
 La commande pull: git pull
+
+Pour créer une branche:
+-git branch <branchname>
+et pour switcher:
+-git checkout <branchname>
